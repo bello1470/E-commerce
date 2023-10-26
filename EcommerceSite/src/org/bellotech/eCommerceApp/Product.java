@@ -1,4 +1,4 @@
-package kgambo.eCommerceApp;
+package org.bellotech.eCommerceApp;
 
 public class Product {
     private int productID;

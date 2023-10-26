@@ -1,9 +1,9 @@
-package kgambo.eCommerceApp;
+package org.bellotech.eCommerceApp;
 
 import java.util.List;
 import java.util.Scanner;
 
-import kgambo.eCommerceApp.PaymentProcessor.PaymentGateway;
+import org.bellotech.eCommerceApp.PaymentProcessor.PaymentGateway;
 
 public class App {
 	public static void main(String[] args) {
