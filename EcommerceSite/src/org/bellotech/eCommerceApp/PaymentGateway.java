@@ -38,9 +38,9 @@ class PaymentProcessor {
 	  shippingAdress, String billingAdress) {
 	  
 	  PaymentProcessor paymentProcessor = new PaymentProcessor(); 
-	  // set creditcard info 
+	
 	  paymentProcessor.setCreditCardNumber(creditCardNumber); 
-	  // set shipping Address 
+
 	  paymentProcessor.setShippingAddress(shippingAdress); 
 	  // set billing address 
 	  paymentProcessor.setBillingAddress(billingAdress); 
